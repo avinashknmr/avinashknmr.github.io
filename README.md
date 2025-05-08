@@ -4,7 +4,7 @@ I'm a **data engineer** turned **data scientist** based out of India with 13+ ye
 I love to code and in my free time, I run [a blog](https://avinashknmr.medium.com/) where I write about data science and data engineering things that I learn along the way. <br>
 
 ## About Me
-#### Data Scientist & Data Engineer
+#### 40 Under 40 Data Scientist & Data Engineer
 - **Location**: Bengaluru, India 🇮🇳
 - **Experience**: 13+ years 🧑🏻‍💻
 - **Education**: MBA 👨‍🎓 (MDI Gurgaon - India 🇮🇳, ESCP Business School - Paris, France 🇫🇷)
